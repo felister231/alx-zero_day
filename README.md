@@ -1,1 +1,1 @@
-My first readme
+Propramming is magical
